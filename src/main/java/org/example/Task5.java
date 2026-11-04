@@ -15,7 +15,7 @@ public class Task5 {
          System.out.println("ხმოვანი ასოების რაოდენობა:" + count);
          System.out.println( "სტრინგის სიგრძე:" + text.length());
          if (text.length() % 2 ==0 ) {
-             System.out.println("ლუწი");
+             System.out.println("ლუწიიიიიიიიიიიიიიიი");
          } else {
              System.out.println("კენტი");
          }
